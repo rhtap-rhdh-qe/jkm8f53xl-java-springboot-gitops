@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jkm8f53xl-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jkm8f53xl-java-springboot-gitops
